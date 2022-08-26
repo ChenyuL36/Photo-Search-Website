@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChenyuL36/Photo-Search-Website.git/static/css/main.85dd499e.css",
+    "main.js": "/ChenyuL36/Photo-Search-Website.git/static/js/main.9620d404.js",
+    "index.html": "/ChenyuL36/Photo-Search-Website.git/index.html",
+    "main.85dd499e.css.map": "/ChenyuL36/Photo-Search-Website.git/static/css/main.85dd499e.css.map",
+    "main.9620d404.js.map": "/ChenyuL36/Photo-Search-Website.git/static/js/main.9620d404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85dd499e.css",
+    "static/js/main.9620d404.js"
+  ]
+}
